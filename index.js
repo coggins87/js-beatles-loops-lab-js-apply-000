@@ -1,6 +1,6 @@
 function theBeatlesPlay(musicians, instruments){
   var whatTheyPlay = {};
-  for (i = 0, i < musicians.Length, i++) {
+  for (musicians[0] == instruments[0]) {
     whatTheyPlay = musicians[0] + " play the " + instruments[0]
   }
   return whatTheyPlay;
